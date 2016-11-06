@@ -19,7 +19,7 @@ The kit does not come with instructions and may be missing some parts. I was mis
 
 The case is sturdy, but the screws are threaded into the metal and are not secure at all. When you have completed the wiring, do not worry if it does not run as per the video. You need to upload the code to activate the motors. I did not hook up the charging socket, but the external switch is handy so you don’t have to keep reaching inside the box to turn the motors on and off.
 
-Download the Arduino software from the website, copy and save the kit car code in the Arduino GUI, plug the Arduino into a USB port on your computer, and upload the code to your car. Make sure that that Arduino software recognizes the kit car USB port. If you receive a serial port permission error, the following command line statement should fix it: sudo usermod -a -G dialout <username>. Replace <username> with your Linux username.
+Download the Arduino software from the website, copy and save the kit car code in the Arduino GUI, plug the Arduino into a USB port on your computer, and upload the code to your car. Make sure that that Arduino software recognizes the kit car USB port. If you receive a serial port permission error, the following Linux command line statement should fix it: sudo usermod -a -G dialout [username]. Replace [username] with your Linux username.
 
 I had to switch forward and reverse in the code because I mounted the sensor on the “back” of the car. I also increased the sensing distance from 15 cm to 30 cm  and the right turn in the avoid function from 360 to 750 which seemed to help a bit with the crashing. 
 
