@@ -1,7 +1,10 @@
-# toy_car
+# Toy Car
 
 From:
 http://codemahal.com/video/building-a-4wd-autonomous-car-with-arduino/
+
+
+
 
 Minor changes:
 - The sensor is on the "back" so forward = backward
