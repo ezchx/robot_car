@@ -3,7 +3,7 @@
 ![](https://github.com/ezchx/sainsmart_uno_4wd_car_kit_code/blob/master/toy_car_pic.jpg)
 
 Assembly Instructions: 
-![]http://www.sainsmart.com/zen/documents/20-011-922/4WD.pdf
+http://www.sainsmart.com/zen/documents/20-011-922/4WD.pdf
 
 
 
