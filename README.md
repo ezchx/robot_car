@@ -8,8 +8,12 @@ http://www.sainsmart.com/zen/documents/20-011-922/4WD.pdf
 Wiring Video:
 https://www.youtube.com/watch?v=oekNebt7Q9o
 
-Arduino Code:
+Arduino Software:
+https://www.arduino.cc/en/Main/Software
+
+Kit Car Code:
 http://codemahal.com/video/building-a-4wd-autonomous-car-with-arduino/
+
 
 The kit does not come with instructions and may be missing some parts. I was missing a 9 volt battery plug, female to female jumper wires, a mounting bracket for the sensor, and circuit board spacers. You will also need 6 AA batteries for the motors and a 9 volt battery for the Arduino. In addition to the tools in the instructions, you will also need a soldering iron.
 
