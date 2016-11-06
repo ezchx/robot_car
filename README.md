@@ -2,6 +2,9 @@
 
 ![](https://github.com/ezchx/sainsmart_uno_4wd_car_kit_code/blob/master/toy_car_pic.jpg)
 
+Amazon Link:
+https://www.amazon.com/dp/B00AJGM4H2/ref=biss_dp_t_asn
+
 Assembly Instructions: 
 http://www.sainsmart.com/zen/documents/20-011-922/4WD.pdf
 
