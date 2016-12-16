@@ -25,4 +25,6 @@ Download the Arduino software from the website, copy and save the rover code in 
 
 Plug the 9V battery into the Arduino and switch on the motors. The rover should go forward until it senses an object at which point it will back up, turn right, and go forward again. I had to switch forward and reverse in the code because I mounted the sensor on the “back” of the rover. I also increased the sensing distance from 15 cm to 30 cm and the right turn in the avoid function from 360 to 750 which seemed to help a bit with the crashing.
 
+Please refer to the robot_rc_controller repository to add remote control to your rover.
+
 Have fun!
